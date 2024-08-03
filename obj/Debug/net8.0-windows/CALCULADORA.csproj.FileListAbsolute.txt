@@ -1,0 +1,7 @@
+C:\Users\MINEDUCYT\source\repos\CALCULADORA\obj\Debug\net8.0-windows\CALCULADORA.Calculador_Diseño.resources
+C:\Users\MINEDUCYT\source\repos\CALCULADORA\obj\Debug\net8.0-windows\CALCULADORA.UserControl1.resources
+C:\Users\MINEDUCYT\source\repos\CALCULADORA\obj\Debug\net8.0-windows\CALCULADORA.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\source\repos\CALCULADORA\obj\Debug\net8.0-windows\CALCULADORA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\source\repos\CALCULADORA\obj\Debug\net8.0-windows\CALCULADORA.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\source\repos\CALCULADORA\obj\Debug\net8.0-windows\CALCULADORA.AssemblyInfo.cs
+C:\Users\MINEDUCYT\source\repos\CALCULADORA\obj\Debug\net8.0-windows\CALCULADORA.csproj.CoreCompileInputs.cache
